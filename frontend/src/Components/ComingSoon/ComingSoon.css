@@ -1,0 +1,10 @@
+.coming-soon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    font-size: 3rem;
+    background: linear-gradient(106.7deg, rgb(219, 78, 120) 6.2%, rgb(117, 169, 228) 46.4%, rgb(104, 231, 212) 86.4%);
+    color: transparent;
+    background-clip: text;
+}
