@@ -12,7 +12,7 @@ app.use(cors());
 
 // database connection with mongo db
 
-mongoose.connect("mongodb+srv://mvsganesh11:070707@cluster0.qggl67b.mongodb.net/IP");
+mongoose.connect("Your MongoDB connection");
 
 //Api creation
 app.get("/",(req,res)=>{
